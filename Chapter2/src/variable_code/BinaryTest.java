@@ -2,15 +2,15 @@ package variable_code;
 
 public class BinaryTest {
 	public static void main(String[]args) {
-		int num = 10;//10Áø¼ö ¼±¾ð
-		int bNum = 0B1010;//2Áø¼ö ¼±¾ð(10)
-		int oNum = 012;//8Áø¼ö ¼±¾ð(10)
-		int xNum = 0XA;//16Áø¼ö ¼±¾ð(10)
+		int num = 10;//10ì§„ìˆ˜ ì„ ì–¸
+		int bNum = 0B1010;//2ì§„ìˆ˜ ì„ ì–¸(10)
+		int oNum = 012;//8ì§„ìˆ˜ ì„ ì–¸(10)
+		int xNum = 0XA;//16ì§„ìˆ˜ ì„ ì–¸(10)
 		System.out.println(num);
 		System.out.println(bNum);
 		System.out.println(oNum);
 		System.out.println(xNum);
-		//Ãâ·ÂÄÚµå
+		//ì¶œë ¥ì½”ë“œ
 		
 	}
 
